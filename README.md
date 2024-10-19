@@ -9,7 +9,7 @@
 
 I'm a passionate developer, coder 🚀
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Aryanvbw)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/NutanGhode)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?label=Follow&style=social)](https://x.com/vivekwagadare?t=nuIH3LUbo8o2o1Rjxot-hA&s=09)
 <a href="https://instagram.com/vivekbw"><img src="https://img.shields.io/badge/Instagram-Follow%20@Vivek-E1306C"/></a>
 
